@@ -1,0 +1,44 @@
+** ComfyUI startup time: 2024-03-25 11:42:33.553566
+[2024-03-25 11:42] ** Platform: Linux
+[2024-03-25 11:42] ** Python version: 3.11.4 | packaged by conda-forge | (main, Jun 10 2023, 18:08:17) [GCC 12.2.0]
+[2024-03-25 11:42] ** Python executable: /opt/conda/bin/python
+[2024-03-25 11:42] ** Log path: /home/jovyan/lecture-notes/13.5 visual content generation/comfyui.log
+[2024-03-25 11:42] 
+Prestartup times for custom nodes:
+[2024-03-25 11:42]    0.0 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-25 11:42] 
+Total VRAM 31320 MB, total RAM 31320 MB
+[2024-03-25 11:42] Set vram state to: DISABLED
+[2024-03-25 11:42] Device: cpu
+[2024-03-25 11:42] VAE dtype: torch.float32
+[2024-03-25 11:42] Using sub quadratic optimization for cross attention, if you have memory or speed issues try using: --use-split-cross-attention
+[2024-03-25 11:42] ### Loading: ComfyUI-Manager (V2.10.3)
+[2024-03-25 11:42] ### ComfyUI Revision: 2064 [db8b59ec] | Released on '2024-03-13'
+[2024-03-25 11:42] 
+Import times for custom nodes:
+[2024-03-25 11:42]    0.0 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/cg-use-everywhere
+[2024-03-25 11:42]    0.1 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-VideoHelperSuite
+[2024-03-25 11:42]    0.1 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-25 11:42] 
+[2024-03-25 11:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-03-25 11:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-03-25 11:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-03-25 11:42] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-03-25 11:43] FETCH DATA from: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-Manager/extension-node-map.json
+[2024-03-25 11:43] got prompt
+[2024-03-25 11:43] model_type EPS
+[2024-03-25 11:44] got prompt
+[2024-03-25 11:44] Using split attention in VAE
+[2024-03-25 11:44] Using split attention in VAE
+[2024-03-25 11:44] clip missing: ['clip_l.logit_scale', 'clip_l.transformer.text_projection.weight']
+[2024-03-25 11:44] Requested to load SDXLClipModel
+[2024-03-25 11:44] Loading 1 new model
+[2024-03-25 11:44] Requested to load SDXL
+[2024-03-25 11:44] Loading 1 new model
+[2024-03-25 11:45] FETCH DATA from: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-Manager/.cache/4245046894_model-list.json
+[2024-03-25 11:49] 100%|███████████████████████████████████████████| 20/20 [04:25<00:00, 13.59s/it]100%|███████████████████████████████████████████| 20/20 [04:25<00:00, 13.29s/it]
+[2024-03-25 11:49] Requested to load AutoencoderKL
+[2024-03-25 11:49] Loading 1 new model
+[2024-03-25 12:06] Prompt executed in 1362.07 seconds
+[2024-03-26 01:02] 
+Stopped server

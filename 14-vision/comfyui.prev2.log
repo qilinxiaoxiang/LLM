@@ -1,0 +1,28 @@
+** ComfyUI startup time: 2024-03-25 11:40:53.724722
+[2024-03-25 11:40] ** Platform: Linux
+[2024-03-25 11:40] ** Python version: 3.11.4 | packaged by conda-forge | (main, Jun 10 2023, 18:08:17) [GCC 12.2.0]
+[2024-03-25 11:40] ** Python executable: /opt/conda/bin/python
+[2024-03-25 11:40] ** Log path: /home/jovyan/lecture-notes/13.5 visual content generation/comfyui.log
+[2024-03-25 11:40] 
+Prestartup times for custom nodes:
+[2024-03-25 11:40]    0.0 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-25 11:40] 
+Total VRAM 31320 MB, total RAM 31320 MB
+[2024-03-25 11:40] Set vram state to: DISABLED
+[2024-03-25 11:40] Device: cpu
+[2024-03-25 11:40] VAE dtype: torch.float32
+[2024-03-25 11:40] Using sub quadratic optimization for cross attention, if you have memory or speed issues try using: --use-split-cross-attention
+[2024-03-25 11:40] ### Loading: ComfyUI-Manager (V2.10.3)
+[2024-03-25 11:40] ### ComfyUI Revision: 2064 [db8b59ec] | Released on '2024-03-13'
+[2024-03-25 11:40] 
+Import times for custom nodes:
+[2024-03-25 11:40]    0.0 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/cg-use-everywhere
+[2024-03-25 11:40]    0.2 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-Manager
+[2024-03-25 11:40]    0.2 seconds: /home/jovyan/lecture-notes/13.5 visual content generation/ComfyUI/custom_nodes/ComfyUI-VideoHelperSuite
+[2024-03-25 11:40] 
+[2024-03-25 11:40] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-03-25 11:40] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-03-25 11:40] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-03-25 11:40] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-03-25 11:42] 
+Stopped server
